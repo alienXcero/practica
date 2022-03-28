@@ -1,3 +1,8 @@
 esto es una practica de git 
+esto es una version 2 com practica en git 
+
+esto es la realidad
+
+
 
 
